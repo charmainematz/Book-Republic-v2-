@@ -194,7 +194,7 @@ class Book extends Admin_Controller{
         echo json_encode(array("status" => TRUE));
     }
 
-    public function trade(){
+    public function borrow(){
 
 
 
