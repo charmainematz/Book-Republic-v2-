@@ -1,0 +1,15 @@
+Options +FollowSymLinks -MultiViews
+
+RewriteEngine On
+RewriteBase /
+
+# Redirect /index?id=2 to /index/2
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/+index\?id=([^&\s]+) [NC]
+RewriteRule ^ /index/%1? [R=302,L]
+
+# Internally forward /index/2 to /index.php?id=2
+RewriteRule ^index/([0-9]+)/?$ /index.php?id=$1 [QSA,NC,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [QSA,L]

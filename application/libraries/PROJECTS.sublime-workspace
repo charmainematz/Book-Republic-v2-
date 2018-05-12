@@ -1,0 +1,935 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"inp",
+				"input-lg"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"col",
+				"col-md-10"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"entr",
+				"entries"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"col-",
+				"col-xs-6"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"pu",
+				"pull-left"
+			],
+			[
+				"show",
+				"showBreakdown"
+			],
+			[
+				"addon",
+				"addon_name"
+			],
+			[
+				"pull",
+				"pull-right"
+			],
+			[
+				"loan_",
+				"loan_amount"
+			],
+			[
+				"loan",
+				"loan_amounts"
+			],
+			[
+				"int",
+				"interest"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"inte",
+				"interest_rate"
+			],
+			[
+				"emp",
+				"employee"
+			],
+			[
+				"depar",
+				"department_id"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"departme",
+				"department_id"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"btn-",
+				"btn-success"
+			],
+			[
+				"room_",
+				"room_id"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"example",
+				"exampleLazy"
+			],
+			[
+				"banner",
+				"banner2"
+			],
+			[
+				"im",
+				"img-responsive"
+			],
+			[
+				"par",
+				"parseFloat"
+			],
+			[
+				"in",
+				"interest"
+			],
+			[
+				"payment",
+				"payment_term"
+			],
+			[
+				"terms",
+				"terms_of_payment"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"pending",
+				"pending_loans"
+			],
+			[
+				"date",
+				"date_approved"
+			],
+			[
+				"new",
+				"new_loan"
+			],
+			[
+				"lon",
+				"loan_data"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"r",
+				"required\tAttr"
+			],
+			[
+				"amorti",
+				"amortization_no"
+			],
+			[
+				"amortizato",
+				"amortization_amount"
+			],
+			[
+				"ajax",
+				"ajax_edit"
+			],
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"u",
+				"user_id"
+			],
+			[
+				"pul",
+				"pull-right"
+			],
+			[
+				"comak",
+				"comakers_no"
+			],
+			[
+				"amort",
+				"amort_factor"
+			],
+			[
+				"loa",
+				"loan_amount"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"not",
+				"notif"
+			],
+			[
+				"res",
+				"res_id"
+			],
+			[
+				"reserv",
+				"reservation"
+			],
+			[
+				"red",
+				"ref_id"
+			],
+			[
+				"reser",
+				"reservation_id"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"rese",
+				"reservation"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"reservation",
+				"reservation_id"
+			],
+			[
+				"re",
+				"res_id"
+			],
+			[
+				"view",
+				"view_reservation"
+			],
+			[
+				"moda",
+				"modal-title"
+			],
+			[
+				"room",
+				"room_types"
+			],
+			[
+				"ame",
+				"amenities"
+			],
+			[
+				"packa",
+				"package"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"event",
+				"event_pax"
+			],
+			[
+				"packe",
+				"package"
+			],
+			[
+				"em",
+				"employee"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"order",
+				"order_type"
+			],
+			[
+				"ser",
+				"service_id"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"hun",
+				"hundredfifty"
+			],
+			[
+				"ti",
+				"thirty"
+			],
+			[
+				"ord",
+				"order_type"
+			],
+			[
+				"service",
+				"service_id"
+			],
+			[
+				"SHOW",
+				"showAvailableRooms"
+			],
+			[
+				"COL",
+				"color"
+			],
+			[
+				"status",
+				"status_id"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"inc",
+				"inclusions"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"path",
+				"path_info"
+			],
+			[
+				"file",
+				"file_extension"
+			],
+			[
+				"filen",
+				"file_name"
+			],
+			[
+				"heg",
+				"max-height"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"fa",
+				"facility"
+			],
+			[
+				"room_t",
+				"room_types"
+			],
+			[
+				"save",
+				"save_method"
+			],
+			[
+				"rel",
+				"reload_table"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"over",
+				"overlay-panel"
+			],
+			[
+				"ov",
+				"overlay-background"
+			],
+			[
+				"o",
+				"overlay-background"
+			],
+			[
+				"overlay",
+				"overlay-background"
+			],
+			[
+				"overl",
+				"overlay-hover"
+			],
+			[
+				"ove",
+				"overlay-hover"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"meta",
+				"meta_title"
+			],
+			[
+				"ho",
+				"hotel_name2"
+			],
+			[
+				"hote",
+				"hotel_name1"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ea",
+				"EAE2D6"
+			],
+			[
+				"package",
+				"packages"
+			],
+			[
+				"serv",
+				"services"
+			],
+			[
+				"pak",
+				"package_id"
+			],
+			[
+				"avail",
+				"avail_package"
+			],
+			[
+				"packag",
+				"package_id"
+			],
+			[
+				"pack",
+				"packages"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"U",
+				"UL\tTag"
+			],
+			[
+				"null_d",
+				"null_date_m"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/itc-2/Desktop/untitled folder/ajc_2000/application/views/layouts/page-footer.php",
+			"settings":
+			{
+				"buffer_size": 8958,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"iNSPackage Contro",
+				"Install Package Control"
+			],
+			[
+				"Package Contro",
+				"Install Package Control"
+			],
+			[
+				"Package Control: npm",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"n",
+				"npm: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/itc-2/Desktop/untitled folder/ajc_2000",
+		"/Users/itc-2/Desktop/untitled folder/ajc_2000/application",
+		"/Users/itc-2/Desktop/untitled folder/ajc_2000/application/views",
+		"/Users/itc-2/Desktop/untitled folder/ajc_2000/application/views/layouts",
+		"/Users/itc-2/Desktop/untitled folder/hotel_reservation",
+		"/Users/itc-2/Desktop/untitled folder/hotel_reservation/application",
+		"/Users/itc-2/Desktop/untitled folder/hotel_reservation/application/libraries",
+		"/Users/itc-2/Desktop/untitled folder/hotel_reservation/application/views",
+		"/Users/itc-2/Desktop/untitled folder/hotel_reservation/application/views/auth",
+		"/Users/itc-2/Desktop/untitled folder/hotel_reservation/application/views/layouts",
+		"/Users/itc-2/Desktop/untitled folder/hotel_reservation/application/views/room"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/book_republic/application/libraries/PROJECTS",
+		"/Applications/MAMP/htdocs/book_republic/application/views/layouts/frontend_top.php",
+		"/Applications/MAMP/htdocs/book_republic/application/views/layouts/page-footer.php",
+		"/Applications/MAMP/htdocs/book_republic/application/libraries/Admin_Controller.php",
+		"/Applications/MAMP/htdocs/book_republic/application/controllers/Auth.php",
+		"/Applications/MAMP/htdocs/book_republic/application/views/layouts/nav.php",
+		"/Applications/MAMP/htdocs/book_republic/application/views/layouts/_layout_main.php",
+		"/Applications/MAMP/htdocs/book_republic/application/views/dashboard/index.php",
+		"/Applications/MAMP/htdocs/book_republic/application/controllers/Dashboard.php",
+		"/Applications/MAMP/htdocs/book_republic/application/views/auth/home.php",
+		"/Applications/MAMP/htdocs/book_republic/assets_frontend/css/style.css",
+		"/Applications/MAMP/htdocs/book_republic/assets/css/style.css",
+		"/Applications/MAMP/htdocs/book_republic/assets_frontend/css/theme/default.css",
+		"/Applications/MAMP/htdocs/book_republic/application/views/layouts/frontend_header.php",
+		"/Applications/MAMP/htdocs/book_republic/application/views/layouts/page-header.php",
+		"/Applications/MAMP/htdocs/book_republic/application/views/layouts/header.php",
+		"/Applications/MAMP/htdocs/book_republic/application/views/layouts/frontend_layout.php",
+		"/Applications/MAMP/htdocs/book_republic/application/views/layouts/frontend_footer.php",
+		"/Applications/MAMP/htdocs/book_republic/application/views/auth/login.php",
+		"/Applications/MAMP/htdocs/book_republic/application/views/auth/register.php",
+		"/Applications/MAMP/htdocs/book_republic/application/config/database.php",
+		"/Users/itc-2/Downloads/BookRepublic.sql",
+		"/Applications/MAMP/htdocs/book_republic/application/config/config.php",
+		"/Applications/MAMP/htdocs/ihotel/assets/js/html2canvas.js",
+		"/Applications/MAMP/htdocs/ihotel/application/views/layouts/page-footer.php",
+		"/Applications/MAMP/htdocs/ihotel/assets/js/jspdf-min.js",
+		"/Applications/MAMP/htdocs/ihotel/application/views/dashboard/analytics_scripts.php",
+		"/Users/itc-2/Downloads/config.php",
+		"/Users/itc-2/Desktop/OMS_itc/application/views/journal/scripts.php",
+		"/Users/itc-2/Desktop/OMS_itc/sftp-config.json",
+		"/Applications/MAMP/htdocs/ihotel/application/views/dashboard/index.php",
+		"/Applications/MAMP/htdocs/ihotel/application/controllers/Dashboard.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/dashboard/scripts.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/views/loan/payment.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/views/loan/view.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/views/loan/scripts.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/controllers/Loan.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/views/layouts/nav.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/controllers/Auth.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/views/auth/signup_form.php",
+		"/Applications/MAMP/htdocs/ihotel/application/libraries/Admin_Controller.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/auth/home.php",
+		"/Applications/MAMP/htdocs/ihotel/application/controllers/Auth.php",
+		"/Applications/MAMP/htdocs/ihotel/application/controllers/Room.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/auth/reset_password.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/auth/change_password.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/auth/forgot_password.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/layouts/nav_guest.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/account/index.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/layouts/header_guest.php",
+		"/Applications/MAMP/htdocs/ihotel/application/models/Reservation_m.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/billing_management/index.php",
+		"/Applications/MAMP/htdocs/ihotel/application/controllers/User.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/layouts/page-header.php",
+		"/Applications/MAMP/htdocs/ihotel/application/controllers/Costumization.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/booking/index.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/booking/view.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/room/scripts.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/room/bookroom.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/room/room_list.php",
+		"/Applications/MAMP/htdocs/ihotel/application/config/config.php",
+		"/Applications/MAMP/htdocs/ihotel/application/config/database.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/auth/create_user.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/auth/signup_form2.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/room/index.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/costumization/index.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/booking/current.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/booking/future.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/settings/index.php",
+		"/Applications/MAMP/htdocs/ihotel/application/models/User_m.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/auth/signup_form.php",
+		"/Applications/MAMP/htdocs/ihotel/application/models/Ion_auth_model.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/layouts/nav.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/employee/index.php",
+		"/Applications/MAMP/htdocs/ihotel/application/models/Room_m.php",
+		"/Applications/MAMP/htdocs/ihotel/application/views/auth/index.php",
+		"/Applications/MAMP/htdocs/ihotel/assets/vendor/slick-carousel/slick.css",
+		"/Applications/MAMP/htdocs/ihotel/.htaccess",
+		"/private/var/folders/5w/s58txb_13l79symz7j438t_00000gn/T/wzQL.H0Lyis/hotel_resort_ms.sql",
+		"/Users/itc-2/Downloads/backup-charmainematienzo.com-4-13-2018.tar",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/views/dashboard/index.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/config/database.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/models/Employee_m.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/views/loan/pending.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/controllers/Dashboard.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/config/config.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/config/autoload.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/views/loan/index.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/controllers/Loan_amount.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/config/routes.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/models/Loan_m.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/models/Comakers_m.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/views/settings/index.php",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/js/colorpicker/bootstrap-colorpicker.min.js",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/js/flot/date.js",
+		"/Applications/MAMP/htdocs/fea_loan_system/application/views/layouts/page-footer.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/layouts/header.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/billing_management/index.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/models/Payment_history_m.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/booking/view.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/addon/scripts.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/js/autocomplete/jquery.autocomplete.js",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/config/autoload.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/config/config.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/models/Room_type_m.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/libraries/Admin_Controller.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/controllers/Booking.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/layouts/nav.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/booking/index.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/controllers/Room.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/models/Reservation_m.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/room/room_list.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/layouts/page-footer.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/layouts/page-header.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/layouts/nav_guest.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/layouts/header_guest.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/auth/home.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/layouts/_layout_guest.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/room/scripts.php",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/auth/scripts.php",
+		"/Users/itc-2/Downloads/jquery-date-range-picker-master/index.html",
+		"/Users/itc-2/Downloads/jquery-date-range-picker-master/src/jquery.daterangepicker.js",
+		"/Applications/MAMP/htdocs/hotel_reservation/application/views/dashboard/index.php",
+		"/Users/itc-2/Downloads/jquery-date-range-picker-master/src/daterangepicker.scss",
+		"/Applications/MAMP/htdocs/ajc_2000/application/views/event/thirty.php",
+		"/Applications/MAMP/htdocs/ajc_2000/application/views/package/scripts.php",
+		"/Applications/MAMP/htdocs/ajc_2000/application/views/event/manual.php",
+		"/Applications/MAMP/htdocs/ajc_2000/application/views/event/planner.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/itc-2/Desktop/untitled folder/ajc_2000"
+		},
+		{
+			"path": "/Users/itc-2/Desktop/untitled folder/CAFS_backup"
+		},
+		{
+			"path": "/Users/itc-2/Desktop/untitled folder/cafs_psr"
+		},
+		{
+			"path": "/Users/itc-2/Desktop/untitled folder/fea_loan_system"
+		},
+		{
+			"path": "/Users/itc-2/Desktop/untitled folder/hotel_reservation"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/itc-2/Desktop/untitled folder/ajc_2000/application/views/layouts/page-footer.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 8958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8373,
+								8422
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2663.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 97.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 222.0
+	},
+	"output.textarea":
+	{
+		"height": 94.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 26.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
