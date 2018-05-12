@@ -210,19 +210,27 @@ class Book extends Admin_Controller{
                 'date_sent' =>   date('Y-m-d'),
                 'book_id'  =>  $book_id,               
         );
+        $book = $this->book_m->get($book_id);
+        $user = $this->user_m->get($receiver_id);
 
-        if($this->borrow_request_m->isValid($book_id,$sender_id)==1){
+        if($book->status=='Available'){
+              if($this->borrow_request_m->isValid($book_id,$sender_id)==1){
 
-            $book = $this->book_m->get($book_id);
-            $user = $this->user_m->get($receiver_id);
-            $this->account_log_m->add_log('You requested '.$user->first_name." to borrow ".$book->title, $sender_id);
+                 
+                    $this->account_log_m->add_log('You requested '.$user->first_name." to borrow ".$book->title, $sender_id);
 
-            $this->session->set_flashdata('message', 'You requested to borrow '.$user->first_name."'s' ".$book->title);     
-            $this->db->insert('borrow_request',$data);
+                    $this->session->set_flashdata('message', 'You requested to borrow '.$user->first_name."'s' ".$book->title);     
+                    $this->db->insert('borrow_request',$data);
+                }
+                else{
+                      $this->session->set_flashdata('message2', 'Your borrow request for this book already exists.');     
+                }
+
+        }else{
+
+            $this->session->set_flashdata('message2', 'Sorry, '.$book->title." is unavailable for borrowing.");    
         }
-        else{
-              $this->session->set_flashdata('message2', 'Your borrow request for this book already exists.');     
-        }
+              
         redirect('dashboard');
     }
     public function accept_borrow_request($request_id){

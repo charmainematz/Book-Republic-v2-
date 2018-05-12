@@ -50,7 +50,7 @@
                                                  <?php if($book->cover_photo!=null){?>
                                      <img style="height: 150px;width:110px" data-src="<?=site_url('upload/'.$book->cover_photo)?>" alt="image"  />
                                      <?php }else{?>
-                                         <img style="height: 150px;width:120px" data-src="<?=site_url('images/nocover.jpg')?>" alt="no cover"  />
+                                         <img style="height: 150px;width:120px; <?php if($book->status!='Available'){echo 'filter: grayscale(100%)';}?>" data-src="<?=site_url('images/nocover.jpg')?>" alt="no cover"  />
                                         <?php } ?>
 
                                     </a>
