@@ -336,14 +336,14 @@ role="dialog" tabindex="-1">
         </div>
 
          <div class="text-center modal-footer">
-            <form method="post" action="<?=site_url('book/borrow')?>">
+            <form method="post" action="<?=site_url('book/trade')?>">
               <input  type="hidden" name="book_id" class="form-control" >
                 <input  type="hidden" name="owner_id" class="form-control" >
-              
+                <input  type="hidden" name="redirect_to" value="dashboard" class="form-control" >
                 
-                    <input onclick="this.form.submit()" type="button" class="btn btn-md btn-success" name="trade" value="Borrow" >
+                    <input onclick="this.form.submit()" type="submit" class="btn btn-md btn-success" name="trade" value="Borrow" >
                  
-                  <input onclick="this.form.submit()" type="button" class="btn btn-md btn-inverse" name="trade" value="Swap" >
+                    <input onclick="this.form.submit()" type="submit" class="btn btn-md btn-inverse" name="trade" value="Swap" >
                    </form>
         </div> 
           

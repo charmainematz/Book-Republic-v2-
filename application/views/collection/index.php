@@ -20,8 +20,7 @@
                       Most Swapped
                     </a>
                 </span>
-            </div>
-            <div id="gallery" class="gallery">
+                 <div class="row">
                   <?php if ($this->session->flashdata('message') ): ?>
                  <div class="alert alert-success" role="alert">
                     <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
@@ -37,6 +36,10 @@
                  </div>
                  
                 <?php endif ?>
+            </div>
+            </div>
+            <div id="gallery" class="gallery">
+
                     <?php foreach($books as $book):?>
                 <div class="image gallery-group-1" >
                     <div class="image-inner" style="text-align: center">
@@ -65,8 +68,16 @@
                               <a href="<?=site_url('book/bookshelf/'.$book->owner_id)?>"> View in <?=$book->first_name."'s Bookshelf";?></a><br><br>
                                 <?php if($this->session->userdata('user_id')!=$book->owner_id){?>
                                <p>
-                                <a href="javascript:;" class="btn btn-success btn-sm m-r-5">Borrow</a>
-                                <a href="javascript:;" class="btn btn-inverse btn-sm">Swap</a>
+                                <form method="post" action="<?=site_url('book/trade')?>">
+                                <input  type="hidden" name="book_id" value="<?=$book->book_id?>" class="form-control" >
+                                <input  type="hidden" name="owner_id" value="<?=$book->owner_id?>" class="form-control" >
+                                <input  type="hidden" name="redirect_to" value="collection" class="form-control" >
+              
+                
+                    <input onclick="this.form.submit()" type="submit" class="btn btn-md btn-success" name="trade" value="Borrow" >
+                 
+                    <input onclick="this.form.submit()" type="submit" class="btn btn-md btn-inverse" name="trade" value="Swap" >
+                   </form>
                                 </p>
                                 <?php }else{?>
                                 <a  onclick="edit_book('<?=$book->book_id?>')" data-toggle="modal"   class="btn btn-white btn-sm">Edit Book</a>

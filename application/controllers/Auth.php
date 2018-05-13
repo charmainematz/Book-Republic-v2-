@@ -157,7 +157,9 @@ class Auth extends Admin_Controller {
 				//redirect them back to the home page
 
 				 $this->access_log_m->add_log('Account log in.', $this->session->userdata('user_id'));
-				$this->session->set_flashdata('message', $this->ion_auth->messages());
+
+				 $user = $this->user_m->get($this->session->userdata('user_id'));
+				$this->session->set_flashdata('message', 'Welcome back, '.$user->first_name."!");
 				redirect('dashboard', 'refresh');
 			}
 			else
